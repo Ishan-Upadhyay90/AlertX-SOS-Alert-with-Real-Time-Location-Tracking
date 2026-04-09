@@ -79,14 +79,13 @@ Location:
 1. Replace the phone number in code:
    ```cpp
    String phoneNumber = "+91XXXXXXXXXX";
-````
+   ```
 
 2. Connect all components properly
 3. Upload the code using Arduino IDE
 4. Power the system and wait for initialization
 5. Press the button to trigger SOS
 
----
 
 ## 🏷️ Topics
 
@@ -94,7 +93,6 @@ Location:
 `sos-alert` `location-tracking` `sms-alert` `call-alert`
 `embedded-systems` `personal-safety`
 
----
 
 ## 💡 Future Improvements
 
@@ -105,4 +103,4 @@ Location:
 
 ⭐ If you like this project, give it a star!
 
-```
+
